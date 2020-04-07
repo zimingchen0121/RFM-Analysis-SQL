@@ -17,7 +17,9 @@ Frequency  1(most frequent)  2      3     4
 Monetary  1(highest spend)   2      3     4
 
 111--best customers--the company should spend time and efforts on keeping this type of customer
+
 x1x--loyal customers--this type of customer frequently purchases from the company with less spend
+
 xx1--high spend customers--this type of customer spend a great amount of money but has a low recency and frequency
 .
 .
