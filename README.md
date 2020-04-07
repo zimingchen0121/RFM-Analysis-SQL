@@ -27,3 +27,12 @@ xx1--high spend customers--this type of customer spend a great amount of money b
 
 Find out the reasons why customers have bahavior based on RFM and understand the reason behind it can potentially help 
 the company increases sales and attracts more customers.
+
+
+
+
+
+
+
+
+
