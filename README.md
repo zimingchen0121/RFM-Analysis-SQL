@@ -9,7 +9,11 @@ Monetary: What is total amount the customer spent on the products?
 In convention, we categorize customer lists into 4 different groups
 
 Recency  1(most recent)      2      3     4
+
+
 Frequency  1(most frequent)  2      3     4
+
+
 Monetary  1(highest spend)   2      3     4
 
 111--best customers--the company should spend time and efforts on keeping this type of customer
